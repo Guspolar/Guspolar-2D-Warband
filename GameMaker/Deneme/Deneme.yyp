@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "22e6ee68-4bd4-41f1-ac29-829c10a93c34",
+            "Value": {
+                "id": "b71837ab-34b8-4df2-b271-2407d32a69ba",
+                "resourcePath": "views\\22e6ee68-4bd4-41f1-ac29-829c10a93c34.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "24ea9cb3-836e-4274-b1dd-d0642b958409",
             "Value": {
                 "id": "9410c0c5-13f7-4149-983d-8e5d75a1df4e",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "298bfadf-d3dd-41c0-b137-b49c4719bdfa",
+            "Value": {
+                "id": "a2de87e1-e87f-4205-ba62-e5029a0427f9",
+                "resourcePath": "shaders\\Flash\\Flash.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "2faa8ccc-c885-4ba5-ac57-7de1526cbbf4",
             "Value": {
                 "id": "478b7d95-efb5-4b88-ad78-0d4e61eeda5f",
@@ -156,6 +172,14 @@
                 "id": "d3d13892-8d35-4518-875d-e8b888ade48d",
                 "resourcePath": "scripts\\create_dialogue\\create_dialogue.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "390d922e-68cb-4675-9bcb-daa605df0f38",
+            "Value": {
+                "id": "bf9b1a44-ad2e-4833-8a2b-c6a7e0ca03e1",
+                "resourcePath": "objects\\obj_vignatte_shader\\obj_vignatte_shader.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "99194583-d22f-47a1-b726-d3ba7e97855d",
+            "Value": {
+                "id": "36a3568c-74b5-4fb8-983b-0ca2cfdc5dbb",
+                "resourcePath": "views\\99194583-d22f-47a1-b726-d3ba7e97855d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9acdd8aa-8f80-40b6-bdf2-ef07cef7b45f",
             "Value": {
                 "id": "6fef86da-6c1e-4e14-aa15-7491221feee4",
@@ -447,11 +479,27 @@
             }
         },
         {
+            "Key": "d47bf15c-5efb-436a-aa61-3a23c37db496",
+            "Value": {
+                "id": "c79531c2-e946-490c-a926-dc22e09b51a6",
+                "resourcePath": "views\\d47bf15c-5efb-436a-aa61-3a23c37db496.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d4b88c0a-12d5-4957-9007-5f5192cdf962",
             "Value": {
                 "id": "1df83ac1-9b10-4884-9a29-60955bb764a3",
                 "resourcePath": "views\\d4b88c0a-12d5-4957-9007-5f5192cdf962.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7beacad-70e2-4efa-aaef-08be96a07fe1",
+            "Value": {
+                "id": "658f9a33-894a-47a9-adc6-52f481352394",
+                "resourcePath": "shaders\\shd_vignette_noise\\shd_vignette_noise.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -500,6 +548,14 @@
                 "id": "f401125e-a52f-4af8-a76d-e921fc5c7043",
                 "resourcePath": "tilesets\\tTileSet\\tTileSet.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "f2aafd7d-b04e-4ff3-a823-2811280d6a12",
+            "Value": {
+                "id": "b1173aae-83a5-4ad2-8457-b4c81a257b09",
+                "resourcePath": "views\\f2aafd7d-b04e-4ff3-a823-2811280d6a12.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

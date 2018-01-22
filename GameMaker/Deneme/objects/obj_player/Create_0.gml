@@ -18,3 +18,4 @@ walksp = 1.2; ///walkspeed
 global.Can = 100;
 PlayerOlu = false;
 global.invin = false;
+flash = 0;
