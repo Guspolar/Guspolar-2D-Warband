@@ -80,30 +80,46 @@
             27,
             27,
             28,
-            29,
-            29,
             28,
+            29,
+            29,
             30,
-            30,
+            35,
             31,
-            31
+            31,
+            32,
+            32,
+            33,
+            33,
+            34,
+            34,
+            35,
+            30,
+            36,
+            36,
+            37,
+            37,
+            38,
+            38,
+            39,
+            39
         ],
         "SerialiseFrameCount": 2
     },
     "tile_animation_frames": [
         {
-            "id": "10aee0cd-a11f-425a-a32d-523288915aac",
+            "id": "4aab1827-daf3-40c2-a835-cf9a3cd65d61",
             "modelName": "GMTileAnimation",
             "mvc": "1.0",
             "frames": [
-                28,
-                29
+                30,
+                35
             ],
             "name": "animation_1"
         }
     ],
     "tile_animation_speed": 4,
-    "tile_count": 32,
+    "tile_count": 40,
     "tileheight": 16,
     "tilehsep": 0,
     "tilevsep": 0,
