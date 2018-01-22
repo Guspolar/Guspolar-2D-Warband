@@ -35,3 +35,12 @@ if (place_meeting(x,y+vsp,oWall))
    vsp = 0;
 }
 y = y + vsp
+
+//Can Sistemi
+if (global.Can < 1) {
+  PlayerOlu = true;	
+} else {PlayerOlu = false}
+
+if (PlayerOlu == true) {
+  game_restart();	
+}

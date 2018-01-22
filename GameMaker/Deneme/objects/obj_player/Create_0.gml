@@ -14,4 +14,7 @@ myPortraitIdle		= spr_portrait_examplechar_idle;
 
 hsp = 0;
 vsp = 0;
-walksp = 1; ///walkspeed
+walksp = 1.2; ///walkspeed
+global.Can = 100;
+PlayerOlu = false;
+global.invin = false;
