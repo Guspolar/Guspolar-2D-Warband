@@ -13,6 +13,17 @@ hsp = move * walksp;
 var movey = key_down - key_up;
 vsp = movey * walksp;
 
+if (xx != mouse.none && yy != mouse.none ) {
+move_towards_point(xx,yy,spd);
+} else {
+ speed = 0; }
+
+if (distance_to_point(xx,yy) < spd + 2) {
+  xx = mouse.none;	
+  yy = mouse.none;
+  
+}
+
 
 //Horizontal Collision
 if (place_meeting(x+hsp,y,oWall)) 

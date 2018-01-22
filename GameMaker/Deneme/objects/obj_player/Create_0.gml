@@ -19,3 +19,11 @@ global.Can = 100;
 PlayerOlu = false;
 global.invin = false;
 flash = 0;
+
+enum mouse { none 
+}
+
+
+xx = mouse.none;
+yy = mouse.none;
+spd = 1.2;
